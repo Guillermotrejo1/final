@@ -1984,7 +1984,7 @@ footer {
   }
 
   .social__platforms {
-    margin-top: 24px;
+    margin: 12px 0;
   }
 
   .social__platform {
@@ -2010,4 +2010,5 @@ footer {
   .footer__copy{
     margin: 8px 0;
   }
+
 }
