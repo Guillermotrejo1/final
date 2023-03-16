@@ -1588,6 +1588,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: row;
   }
 
   .test__wrapper {
@@ -1863,6 +1864,11 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: row;
+  }
+
+  .templates{
+    text-align: center;
   }
 
   .test__wrapper {
@@ -1991,5 +1997,17 @@ footer {
     display: flex;
     flex-direction: column;
     margin: 12px;
+  }
+
+  .row__started{
+    padding: 0;
+  }
+
+  .footer__border{
+    margin: 50px 0;
+  }
+
+  .footer__copy{
+    margin: 8px 0;
   }
 }
